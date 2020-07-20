@@ -1,4 +1,4 @@
-# Red_giant_star_age_BPNN
+# Red-giant-star-age-BPNN
 Use MATLAB to build BP neural networks to estimate the age of the red giant stars. The file includes a program for building a BP neural network using MATLAB (*.m) and red giant age estimation models (*.mat).
 
 RG_spectra_Age.xlsm --- Our reseach sample: the stellar parameters corresponding to the 5349 LAMOST spectra.
